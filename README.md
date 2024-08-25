@@ -1,4 +1,4 @@
-This is a program replicating a car rental system by utilizing **C++ Object Oriented Programming** and features from the **OpenCV** libary.
+This is a program replicating a car rental system by utilizing **C++ Object Oriented Programming** and features from the **OpenCV** library.
 
 * The first console page contains a **login** page where the user is prompted to input a password ("welcome") in order to continue further.
 * Then the available cars for rent are displayed and the user is prompted to choose.
